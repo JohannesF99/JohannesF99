@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Johannes Franke!
-- 🌱 I’m currently learning Computer Science in Gera
+- 🌱 I’m currently studying Computer Science in Gera
 - 💞️ I'm working at Inverso GmbH in Jena
 - 📫 You can reach me via E-Mail: jofra@hotmail.de
 
