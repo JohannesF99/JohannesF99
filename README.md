@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Johannes Franke!
-- 🌱 I’m currently studying Computer Science in Gera
-- 💞️ I'm working at Inverso GmbH in Jena
-- 📫 You can reach me via E-Mail: jofra@hotmail.de
+- Hi, I’m Johannes Franke!
+- I’m currently studying Computer Science in Gera
+- I'm working at Inverso GmbH in Jena
+- You can reach me via E-Mail: jofra@hotmail.de
 
 <!---
 JohannesF99/JohannesF99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
